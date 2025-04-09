@@ -1,0 +1,15 @@
+[
+    {
+        "type": "Recovery",
+        "name": "First Aid Spray",
+        "decimal": "1",
+        "count": 1,
+        "progression": 0
+    },
+
+    {
+        "name": "Victory",
+        "id": null,
+        "progression": 1
+    }
+]

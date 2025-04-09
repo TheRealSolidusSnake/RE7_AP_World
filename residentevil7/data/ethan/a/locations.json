@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Purse with License Inside",
+        "region": "Intro House",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm7011_Lisence_InteractDetailSearch",
+        "parent_object": "sm7011_Lisence_Props",
+        "folder_path": "Chapter/Chapter1/Outside/c01_Outside11/c01_Outside11_sm"
+    },
+    {
+        "name": "Derelict House Footage Tape Upstairs",
+        "region": "Intro House",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "InteractDetailSearch",
+        "parent_object": "sm0584_Videotape01C_DetailSearchItem",
+        "folder_path": "Chapter/Chapter1/2F/c01_2F/c01_2F_sm"
+    },
+    
+    {
+        "name": "Victory",
+        "region": "Intro House",
+        "condition": {},
+        "item_object": "InteractSendFsm_After",
+        "parent_object": "",
+        "folder_path": "Chapter/Chapter1/1F/c01_Living01/c01_Living01_sm",
+        "id": null,
+        "victory": true
+    }
+]
